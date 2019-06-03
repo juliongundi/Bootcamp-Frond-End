@@ -1,0 +1,24 @@
+div {
+  color: red;
+}
+
+.hijo-1 {
+  font-size: 24px;
+}
+
+#ultimo {
+  font-weight: bold;
+}
+
+div.hijo-2 {
+  margin-left: 20px;
+}
+
+div p {
+  text-decoration: underline;
+}
+
+
+.padre > .verde {
+  color: green;
+}

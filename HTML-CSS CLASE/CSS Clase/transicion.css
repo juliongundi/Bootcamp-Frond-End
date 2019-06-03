@@ -1,0 +1,14 @@
+.transicion-derecha {
+    display: inline-block;
+    width: 400px;
+    font-size: 20px;
+    margin-right: 20px;
+    transition-delay: 500ms;
+    transition-duration: 1000ms;
+    transition-property: margin-left, red;
+    transition-timing-function: ease-in-out;
+}
+
+.transicion-derecha-aplicar {
+    margin-left: 200px;
+}

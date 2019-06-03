@@ -1,0 +1,225 @@
+.header {
+    text-decoration: none;
+    z-index: 1;
+}
+  
+.cabecera {
+    display: Flex;
+  }
+
+.cabecera li {
+    list-style: none;
+    display: inline-block;
+  
+}
+
+.cabecera li a{
+    text-decoration: none;
+}
+
+.enca img{
+    width: 100px;
+    height: 70px;
+    margin-right: 20px;
+}
+
+.enca1 {
+    padding-right: 30px;
+    
+}
+
+.enca2 {
+    margin-left: 450px;
+    border: 12px solid #611f69;
+    color: #fff;
+    background-color: #611f69;
+    text-decoration: none;
+    border-radius: 4px;
+    text-align: center;
+    line-height: 1;
+}
+
+.enca2 a {
+    color: #fff; 
+}
+
+.titulo {
+    text-align: center;
+    justify-content: center;
+    font-size: 380%;
+    position: relative;
+    top: 40px;
+    z-index: 1;
+    font-family: Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+}
+
+.ima1{
+    position: relative;
+    top: 120px;
+    left: 105px;
+}
+
+.tex-til {
+    text-align: center;
+    padding-top: 300px;
+}
+
+.texto {
+    text-align: center;
+    display: block;
+    font-size: 16px;
+    box-sizing: inherit;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    margin-bottom: 1.5rem;
+}
+
+.imatext {
+    font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+}
+
+.informacion {
+    text-align: center;
+    margin-top: 50px;
+    border-bottom: none;
+    font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    color: #1264a3;
+    transition: 1800ms; 
+}
+
+.contenedor2 {
+    background-color: #F5F5F5;
+    margin-top: 120px;
+    padding: 120px;
+}
+
+.imagen-futbol {
+    display: inline-block;
+}
+
+.comp {
+    text-align: center;
+    font-family: Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    font-weight: 700;
+    line-height: 1.1875;
+    font-size: 2rem;
+    margin-top: 40px;
+}
+
+.comp2 {
+    margin-left: 300px;
+    font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+}
+
+.fotos {
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.fotos20 {
+    justify-content: center;
+    margin-top: 20px;
+    border: #FFFFFF 12px  solid;
+    
+}
+
+.fotos30 {
+    justify-content: center;
+    margin-top: 20px;
+    border: #FFFFFF 1px  solid;
+    margin-left: 70px;
+}
+
+.fotos40 {
+    justify-content: center;
+    margin-top: 20px;
+    border: #FFFFFF 12px  solid;
+    margin-left: 70px;
+}
+
+.futbol {
+    border: 0;
+    max-width: 100%;
+    height: auto;
+    box-sizing: inherit;
+}
+
+.futbol2 {
+    margin-left: 85px;
+    margin-top: 20px;
+}
+
+.foto2 {
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.escaleras2 {
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.futbol3 {
+    margin-top: 20px;
+    font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    color: #454545;
+}
+
+.fotos5 {
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.contenedor3 {
+    background-image: url(https://a.slack-edge.com/16749/marketing/img/accent/bg_halftone_black_30p.png);
+    background-color: #4a154b;
+    padding: 80px 0px;
+    
+}
+
+.prueba {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 2rem;
+    font-family: Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+}
+
+.pasos {
+    display: inline-block;
+    margin-left: 420px;
+    color: #4a154b;
+    background-color: #FFFFFF;
+    border: #FFFFFF 1px solid;
+    padding: 19px 40px 20px;
+}
+
+.contenedor4 {
+    padding-top: 90px;
+    padding: 80px;
+}
+
+.class {
+    font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    color: black;
+    font-size: .875rem;
+}
+
+.contenedor5 {
+    padding: 40px;
+    background-color: #F5F5F5;
+}
+.fin {
+    padding: 0;
+}
+.final {
+    font-size: .875rem;
+    font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+}
+
+.iconos {
+    justify-content: flex-end;
+    align-items: flex-end;
+}
