@@ -1,0 +1,332 @@
+.body {
+  background-color: #fff;
+  /*Construccion del cuerpo*/
+}
+
+.body li {
+  list-style: none;
+}
+
+.body a {
+  text-decoration: none;
+}
+
+.body .cabecera .cabecera__primero {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+.body .cabecera .cabecera__primero img {
+  display: inline-block;
+  width: 15%;
+  margin-left: 40%;
+  margin-top: 5%;
+}
+
+.body .cabecera .cabecera__primero ul {
+  display: inline-block;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  margin-left: 13%;
+  margin-top: 5%;
+}
+
+.body .cabecera .cabecera__primero ul li {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  margin-left: 4%;
+  white-space: pre-line;
+}
+
+.body .cabecera .cabecera__primero ul li strong {
+  color: #000;
+}
+
+.body .cabecera .cabecera__primero .cabecera__buscador2 {
+  font-size: small;
+}
+
+.body .cabecera .cabecera__primero .cabecera__buscador3 {
+  display: inline-block;
+  padding-left: 80%;
+}
+
+.body .cabecera .cabecera__primero .cabecera__buscador4 {
+  display: inline-block;
+  padding-left: 45%;
+}
+
+.body .cabecera .cabecera__primero .cabecera__raya {
+  display: inline-block;
+  position: absolute;
+  left: 71%;
+  width: 18%;
+  height: 1px;
+  top: 15%;
+  background-color: #000;
+}
+
+.body .cabecera .cabecera__segundo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  margin-top: -3%;
+}
+
+.body .cabecera .cabecera__segundo ul {
+  display: inline-block;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  margin-left: 33%;
+  margin-top: 5%;
+}
+
+.body .cabecera .cabecera__segundo ul li {
+  margin-left: 3%;
+  font-size: 95%;
+}
+
+.body .cabecera .cabecera__segundo ul li a {
+  color: #d6d6d6;
+}
+
+.body .cabecera .cabecera__segundo .cabecera__buscador1-2 {
+  font-size: 80%;
+  padding-top: 2px;
+}
+
+.body .cabecera .cabecera__segundo .cabecera__buscador1-7 {
+  margin-left: 50%;
+  margin-right: 2%;
+}
+
+.body .cabecera .cabecera__segundo .cabecera__buscador1-9 {
+  color: #0BFF81;
+}
+
+.body .cabecera .cabecera__segundo .cabecera__buscador1-10 {
+  margin-left: 6%;
+  margin-right: 6%;
+}
+
+.body .cabecera .cabecera__tercero {
+  display: inline-block;
+  position: absolute;
+  top: 11%;
+  left: 2%;
+  z-index: 5;
+}
+
+.body .cabecera .cabecera__tercero span {
+  font-size: 130%;
+  color: #000;
+}
+
+.body .cabecera .cabecera__tercero li {
+  margin-left: 10%;
+  margin-top: 3%;
+}
+
+.body .cabecera .cabecera__tercero a {
+  color: #000;
+  font-size: 130%;
+}
+
+.body .cabecera .cabecera__tercero a:hover {
+  font-size: x-large;
+}
+
+.body .cabecera .cabecera__tercero img {
+  display: inline-block;
+  position: absolute;
+}
+
+.body .cabecera .cabecera__tercero .cabecera__span {
+  margin-left: 10%;
+}
+
+.body .cabecera .cabecera__tercero .cabecera__tercero1-1 {
+  opacity: 0;
+}
+
+.body .cabecera .cabecera__tercero .cabecera__tercero1-1:hover {
+  opacity: 1;
+  -webkit-transition-duration: 0.5;
+          transition-duration: 0.5;
+}
+
+.body .cabecera .cabecera__tercero .cabecera__tercero1-2 {
+  color: red;
+}
+
+.body .cuerpo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  /*Informacion*/
+  /*Informacion1*/
+  /*Informacion2*/
+}
+
+.body .cuerpo .cuerpo__foto1 {
+  width: 20%;
+  margin-left: 2%;
+}
+
+.body .cuerpo .cuerpo__foto1-1 {
+  display: inline-block;
+  width: 60%;
+}
+
+.body .cuerpo .cuerpo__foto1-1-solido {
+  display: inline-block;
+  position: absolute;
+}
+
+.body .cuerpo .cuerpo__foto1-1-nosolido {
+  display: inline-block;
+  position: relative;
+}
+
+.body .cuerpo .cuerpo__foto1-1-letra1 {
+  diplay: inline-block;
+  position: relative;
+  margin-top: 2%;
+  text-align: center;
+  width: 245%;
+}
+
+.body .cuerpo .cuerpo__foto1-1-letra2 {
+  diplay: inline-block;
+  position: relative;
+  margin-top: 1%;
+  text-align: center;
+  width: 235%;
+}
+
+.body .cuerpo .cuerpo__foto1-1-nosolido:hover {
+  opacity: 0;
+  -webkit-transition-duration: 0.5s;
+          transition-duration: 0.5s;
+}
+
+.body .cuerpo .cuerpo__informacion {
+  display: inline-block;
+  position: absolute;
+  margin-top: 40%;
+  margin-left: 25%;
+  text-align: center;
+}
+
+.body .cuerpo .cuerpo__informacion hr {
+  position: relative;
+  margin-top: 15%;
+  width: 244%;
+  height: 1px;
+  opacity: 0.5;
+  left: -65%;
+}
+
+.body .cuerpo .cuerpo__informacion-letra {
+  margin-top: 5%;
+}
+
+.body .cuerpo .cuerpo__informacion1 {
+  display: inline-block;
+  position: absolute;
+  margin-top: 55%;
+  margin-left: 17%;
+  text-align: center;
+}
+
+.body .cuerpo .cuerpo__informacion1 ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  width: 150%;
+}
+
+.body .cuerpo .cuerpo__informacion1 li {
+  margin-left: 5%;
+}
+
+.body .cuerpo .cuerpo__informacion1 h2 {
+  margin-left: 10%;
+  width: 130%;
+}
+
+.body .cuerpo .cuerpo__informacion1 a {
+  font-size: 130%;
+  color: #000;
+}
+
+.body .cuerpo .cuerpo__informacion2 {
+  display: inline-block;
+  position: absolute;
+  margin-top: 70%;
+  margin-left: 25%;
+  text-align: center;
+}
+
+.body .cuerpo .cuerpo__informacion2 strong {
+  font-size: 198%;
+}
+
+.body .cuerpo .cuerpo__informacion2 .cuerpo__informacion2-2 {
+  font-size: 200%;
+}
+
+.body .cuerpo .cuerpo__informacion2 .cuerpo__informacion2-3 {
+  font-size: 110%;
+  margin-top: 10%;
+}
+
+.body .cuerpo .cuerpo__informacion2 .cuerpo__raya1 {
+  position: absolute;
+  height: 1px;
+  background-color: #000;
+  width: 120%;
+  left: -7%;
+}
+
+.body .cuerpo .cuerpo__informacion2 .cuerpo__raya2 {
+  position: absolute;
+  height: 1px;
+  width: 236%;
+  left: -65%;
+  top: 140%;
+  opacity: 0.5;
+}
+/*# sourceMappingURL=pull&bear.css.map */

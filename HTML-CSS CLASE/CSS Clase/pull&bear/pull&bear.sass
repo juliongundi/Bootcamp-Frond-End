@@ -1,0 +1,210 @@
+.body
+    li
+        list-style: none
+    a 
+        text-decoration: none
+        color: #000
+    /*Empezamos cabecera*/
+    .cabecera
+        /* Titulo y busqueda de cabecera*/
+        .cabecera__primero
+            display: flex
+            flex-direction: row
+            img 
+                display: inline-block
+                width: 15%
+                margin-left: 40%
+                margin-top: 5%
+            ul
+                display: inline-block
+                display: flex
+                flex-direction: row
+                margin-left: 13%
+                margin-top: 5%
+                li 
+                    display: flex
+                    flex-direction: row
+                    margin-left: 4%
+                    white-space: pre-line
+                    strong
+                        color: #000
+            .cabecera__buscador2
+                font-size: small
+            .cabecera__buscador3
+                display: inline-block
+                padding-left: 80%
+            .cabecera__buscador4
+                display: inline-block
+                padding-left: 45%
+            .cabecera__raya     
+                display: inline-block
+                position: absolute
+                left: 71%
+                width: 18%
+                height: 1px
+                top: 15%
+                background-color: #000
+            
+        /*Busqueda de articulos*/
+        .cabecera__segundo
+            display: flex
+            flex-direction: row
+            margin-top: -3%
+            ul
+                display: inline-block
+                display: flex
+                flex-direction: row
+                margin-left: 33%
+                margin-top: 5%
+                li
+                    margin-left: 3%
+                    font-size: 95%
+                    a
+                        color: #d6d6d6
+            .cabecera__buscador1-2
+                font-size: 80%
+                padding-top: 2px
+            .cabecera__buscador1-7
+                margin-left: 50%
+                margin-right: 2%
+            .cabecera__buscador1-9
+                color: #0BFF81
+            .cabecera__buscador1-10
+                margin-left: 6%
+           .cabecera__buscador1-11
+                margin-left: 6%
+
+      /*Lista de Menu*/  
+        .cabecera__tercero
+            display: inline-block
+            position: absolute
+            top: 11%
+            left: 2%
+            z-index: 5
+            span 
+                font-size: 130%
+                color: #000
+            li
+                margin-left: 10%
+                margin-top: 3%
+            a
+                color: #000
+                font-size: 130%
+            a:hover
+                font-size: x-large
+            img
+                display: inline-block
+                position: absolute
+            .cabecera__span
+                margin-left: 10%
+            .cabecera__tercero1-1
+                opacity: 0
+            .cabecera__tercero1-1:hover
+                opacity: 1
+                transition-duration: 0.5
+            .cabecera__tercero1-2
+                color: red                
+    /*Construccion del cuerpo*/
+    .cuerpo
+        display: flex
+        flex-direction: row
+        .cuerpo__foto1
+            width: 20%
+            margin-left: 2%
+        .cuerpo__foto1-1
+            display: inline-block
+            width: 60%
+        .cuerpo__foto1-1-solido
+            display: inline-block
+            position: absolute
+        .cuerpo__foto1-1-nosolido
+            display: inline-block
+            position: relative
+        .cuerpo__foto1-1-letra1
+            diplay: inline-block
+            position: relative
+            margin-top: 2%
+            text-align: center
+            width: 245%
+        .cuerpo__foto1-1-letra2
+            diplay: inline-block
+            position: relative
+            margin-top: 1%
+            text-align: center
+            width: 235%
+        .cuerpo__foto1-1-nosolido:hover
+            opacity: 0
+            transition-duration: 0.5s
+        
+        /*Informacion*/
+        .cuerpo__informacion 
+            display: inline-block
+            position: absolute
+            margin-top: 40%
+            margin-left: 25%
+            text-align: center
+            hr
+                position: relative
+                margin-top: 15%
+                width: 244%
+                height: 1px
+                opacity: 0.5
+                left: -65%
+        .cuerpo__informacion-letra
+            margin-top: 5%
+
+        /*Informacion1*/        
+        .cuerpo__informacion1
+            display: inline-block
+            position: absolute
+            margin-top: 55%
+            margin-left: 17%
+            text-align: center
+            ul
+                display: flex
+                flex-direction: row
+                width: 150%
+            li
+                margin-left: 5%  
+            h2
+                margin-left: 10%  
+                width: 130%     
+            a
+                font-size: 130% 
+                color: #000
+          
+        /*Informacion2*/
+        .cuerpo__informacion2
+            display: inline-block
+            position: absolute
+            margin-top: 70%
+            margin-left: 25%
+            text-align: center
+            strong
+                font-size: 198%
+            
+            .cuerpo__informacion2-2
+                font-size: 200%
+            .cuerpo__informacion2-3
+                font-size: 110%
+                margin-top: 10%
+                a
+                    color: #000
+            .cuerpo__raya1
+                position: absolute
+                height: 1px
+                background-color: #000
+                width: 120%
+                left: -7%
+            .cuerpo__raya2
+                position: absolute
+                height: 1px
+                width: 236%
+                left: -65%
+                top: 140%
+                opacity: 0.5
+    .footer__final
+        display: inline-block
+        position: absolute
+        margin-top: 400%
+        left: 100%

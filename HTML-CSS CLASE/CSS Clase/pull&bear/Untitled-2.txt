@@ -1,0 +1,20 @@
+
+
+            /*
+        .foto1:hover
+            background: url(<img data-src="" src="https://static.pullandbear.net/2/photos//2019/I/0/1/p/9239/356/250/9239356250_4_1_8.jpg?t=1559127179605&amp;imwidth=430" alt="Blusa blanca bordado suizo , BLANCO" class="image-responsive img-carrousel img-400" responsive-img-status="is-loaded" responsive-img-condition="400" data-object-fit="">) no-repeat
+        .foto2:hover
+            background: url(<img data-src="" src="https://static.pullandbear.net/2/photos//2019/I/0/1/p/9230/394/805/9230394805_4_1_8.jpg?t=1559043545228&amp;imwidth=430" alt="Top blanco crochet , HIELO" class="image-responsive img-carrousel img-400" responsive-img-status="is-loaded" responsive-img-condition="400" data-object-fit="">) no-repeat
+       .foto3:hover
+            background: url(<img data-src="" src="https://static.pullandbear.net/2/photos//2019/I/0/1/p/9239/402/505/9239402505_4_1_8.jpg?t=1559043931933&amp;imwidth=430" alt="Body espalda abierta , KAKI" class="image-responsive img-carrousel img-400" responsive-img-status="is-loaded" responsive-img-condition="400" data-object-fit="">) no-repeat
+        .foto4:hover
+            background: url(<img data-src="" src="https://static.pullandbear.net/2/photos//2019/V/0/1/p/5247/338/746/5247338746_4_1_8.jpg?t=1554482270431&amp;imwidth=430" alt="Camiseta punto calado cruzada , NATURAL" class="image-responsive img-carrousel img-400" responsive-img-status="is-loaded" responsive-img-condition="400" data-object-fit="">) no-repeat
+        .foto5:hover
+            background: url(<img data-src="" src="https://static.pullandbear.net/2/photos//2019/V/0/1/p/5247/338/746/5247338746_4_1_8.jpg?t=1554482270431&amp;imwidth=430" alt="Camiseta punto calado cruzada , NATURAL" class="image-responsive img-carrousel img-400" responsive-img-status="is-loaded" responsive-img-condition="400" data-object-fit="">) no-repeat
+        .foto6:hover
+            background: url(<img data-src="" src="https://static.pullandbear.net/2/photos//2019/I/0/1/p/9230/347/945/9230347945_4_1_8.jpg?t=1558373107130&amp;imwidth=430" alt="Camiseta La Sirenita tie-dye , FUCSIA DEGRADADO" class="image-responsive img-carrousel img-400" responsive-img-status="is-loaded" responsive-img-condition="400" data-object-fit="">) no-repeat
+        .foto7:hover
+            background: url(<img data-src="" src="https://static.pullandbear.net/2/photos//2019/I/0/1/p/9230/348/555/9230348555_4_1_8.jpg?t=1558373276959&amp;imwidth=430" alt="Camiseta cangrejo Sebastian tie-dye , Varios" class="image-responsive img-carrousel img-400" responsive-img-status="is-loaded" responsive-img-condition="400" data-object-fit="">) no-repeat
+        .foto8:hover
+            background: url(<img data-src="" src="https://static.pullandbear.net/2/photos//2019/I/0/1/p/9230/349/250/9230349250_4_1_8.jpg?t=1558535686009&amp;imwidth=430" alt="Camiseta cómic manga corta , BLANCO" class="image-responsive img-carrousel img-400" responsive-img-status="is-loaded" responsive-img-condition="400" data-object-fit="">) no-repeat
+        */
