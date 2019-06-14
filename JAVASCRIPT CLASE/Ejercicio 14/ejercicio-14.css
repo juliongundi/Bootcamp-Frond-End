@@ -1,0 +1,17 @@
+.main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.main .main__caja1 {
+  width: 50%;
+}
+
+.main .main__caja2 {
+  width: 50%;
+}
+/*# sourceMappingURL=ejercicio-14.css.map */

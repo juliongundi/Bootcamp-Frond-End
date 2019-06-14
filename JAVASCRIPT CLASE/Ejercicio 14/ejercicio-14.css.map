@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,CAAC;EACF,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;CAIA;;AANvB,AAGI,KAHC,CAGD,YAAY,CAAC;EACT,KAAK,EAAE,GAAG;CAAG;;AAJrB,AAKI,KALC,CAKD,YAAY,CAAC;EACT,KAAK,EAAE,GAAG;CAAG",
+    "sources": [
+        "ejercicio-14.sass"
+    ],
+    "names": [],
+    "file": "ejercicio-14.css"
+}
