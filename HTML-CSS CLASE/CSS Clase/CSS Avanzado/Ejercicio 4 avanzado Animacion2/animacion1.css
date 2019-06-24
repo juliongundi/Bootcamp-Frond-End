@@ -1,0 +1,87 @@
+@keyframes corazon {
+    0% {
+        transform: scale(0.55);
+    }
+
+    45% {
+        transform: scale(1);
+    }
+
+    100% {
+        transform: scale(0.55);
+    }
+}
+
+.corazon {
+    display: inline-block;
+    width: 200px;
+    animation-name: corazon;
+    animation-duration: 1000ms;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    margin-left: 80px;
+}
+
+.ey {
+    background-color: bisque;
+}
+
+.barra {
+    display: inline-block;
+    border: 5px solid #FFF;
+    background-color: #6CD9D9; 
+    padding-left: 5px;
+    height: 20px;
+    transition-delay: 200ms;
+    transition-duration: 0.8s;
+    transition-property: padding-left;
+    transition-timing-function: ease-in-out;
+    margin-top: 50px;
+    padding: 2px;
+}
+
+.barra:hover {
+    padding-left: 90px;
+    
+}
+
+.barra2 {
+    height: 20px;
+}
+
+@keyframes hora {
+    0% {
+        rotate: (0,55);
+    }
+
+    45% {
+        transform: scale(1);
+    }
+
+    100% {
+        transform: scale(0.55);
+    }
+}     
+
+.reloj {
+    display: inline-block;
+    background: #fff url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ios_clock.svg/512px-Ios_clock.svg.png) no-repeat center;
+    background-size: 280px;
+    width: 300px;
+    height: 15px;
+    padding-bottom: 300px;
+    border-radius: 140px;
+    position: relative;
+    margin-left: 80px;
+    animation-name: horas;
+    animation-duration: 1000ms;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+
+}
+
+.horas {
+  background: #000;
+
+}
+  
