@@ -6,4 +6,6 @@ while(i >= 0){
     nombreMayus = nombreMayus + nombre[i];
     i--;
 }
-console.log(nombreMayus)
+
+
+console.log(nombreMayus)cxd8

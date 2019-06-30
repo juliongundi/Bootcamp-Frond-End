@@ -1,5 +1,5 @@
 
-//Primera partedel ejercicio
+//Primera parte del ejercicio
 var resultados = [];
 var arrayDeTest1 = ["Richie", "Joanie", "Greg", "Marcia", "Bobby"];
 var arrayDeTest2 = ["Blanka", "Zangief", "Chun Li", "Guile"];

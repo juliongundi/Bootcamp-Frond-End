@@ -1,0 +1,17 @@
+.botones {
+  margin: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  font-size: 30px;
+}
+
+li {
+  background-color: #837c7c;
+  color: white;
+  padding: 5px;
+}
+/*# sourceMappingURL=ejercicio11-basico.css.map */

@@ -11,3 +11,4 @@ function generarMensajeDeSaludo(nombreDeLaPersona, esTarde) {
 var saludo = generarMensajeDeSaludo("David", true);
 
 console.log(saludo);
+

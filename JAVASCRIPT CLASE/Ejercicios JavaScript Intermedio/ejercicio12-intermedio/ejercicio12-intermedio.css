@@ -1,0 +1,74 @@
+.cabecera {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  width: 100%;
+}
+
+.cabecera ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  width: 100%;
+  margin-top: 1%;
+}
+
+.cabecera li {
+  list-style: none;
+  margin-left: 1%;
+}
+
+.cabecera .cabecera__1 {
+  color: #49E183;
+}
+
+.cabecera .cabecera__2 {
+  margin-left: 10%;
+}
+
+.cabecera .cabecera__3 {
+  margin-top: 8px;
+}
+
+.cabecera .dropdown-toggle {
+  color: #fff;
+  background-color: RGB(205, 92, 92);
+}
+
+.footer {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 100%;
+}
+
+.footer .datos {
+  width: 20%;
+  border: 1px solid #49E183;
+  margin-left: 73%;
+}
+
+.footer .datos ul {
+  margin-top: 3%;
+  margin-left: -10%;
+}
+
+.footer .datos li {
+  list-style: none;
+}
+
+.footer .datos .datos__caja {
+  border: 1px solid #49E183;
+}
+
+.footer .datos .datos1 {
+  margin-left: 10%;
+}
+/*# sourceMappingURL=ejercicio12-intermedio.css.map */
