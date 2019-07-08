@@ -1,0 +1,34 @@
+.logo {
+  font-size: 90px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: absolute;
+  margin-top: 15%;
+  margin-left: 38%;
+}
+
+.logo__letter1 {
+  color: blue;
+}
+
+.logo__letter2 {
+  color: Red;
+}
+
+.logo__letter3 {
+  color: yellow;
+}
+
+.logo__letter4 {
+  color: green;
+}
+
+.logo__letter4 {
+  color: blue;
+}
+
+.logo__letter6 {
+  color: red;
+}
+/*# sourceMappingURL=logo.component.css.map */

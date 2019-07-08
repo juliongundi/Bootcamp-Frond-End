@@ -1,5 +1,3 @@
-console.log("Soy el 8");
-
 class EMpresa {
     constructor(nombre, frase, negocio) {
         this._nombre = nombre;

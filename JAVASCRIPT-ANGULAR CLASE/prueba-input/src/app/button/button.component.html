@@ -1,0 +1,5 @@
+<button class=""  id="" [style.background]="colorDelBoton" (click)="responderClick()">
+    
+    <span *ngIf="tituloDelBoton.length < 10" >{{ tituloDelBoton }}</span> 
+    <span *ngIf="tituloDelBoton.length >= 10" >Pulsa Aqui</span> 
+</button>

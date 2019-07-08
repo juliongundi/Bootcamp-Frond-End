@@ -1,0 +1,37 @@
+.lista {
+  background: #00aeff;
+  padding: 12px;
+  margin-left: -1%;
+  margin-top: -1%;
+  margin-right: -1%;
+}
+
+.lista__encabezado {
+  margin-left: 20%;
+}
+
+.lista__encabezado ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+.lista__encabezado li {
+  list-style: none;
+  margin-left: 15px;
+  text-decoration: none;
+}
+
+.lista__encabezado a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.lista__encabezado hr {
+  width: 10%;
+}
+/*# sourceMappingURL=header.component.css.map */

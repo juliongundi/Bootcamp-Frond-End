@@ -3,11 +3,10 @@ function arrayDeCaracteres() {
     var arrayDeCaracteres = nombreDeString.split("");
    
     console.log(arrayDeCaracteres);
-        
-    
-    console.log(nombreDeString.split['a'] === 7);
-    console.log(nombreDeString.split['b'] === 14);
-    console.log(nombreDeString.split['c'] === 3);
+ 
+    console.log(['a'] != 7);
+    console.log(['b'] != 14);
+    console.log(['c'] != 3);
 }
 arrayDeCaracteres();
 

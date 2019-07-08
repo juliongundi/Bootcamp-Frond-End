@@ -1,0 +1,65 @@
+.footer {
+  height: 30px;
+  background: #E0E7EA;
+  color: #fff;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  padding-bottom: 5%;
+  opacity: 0.5;
+}
+
+.parrafo {
+  margin-left: 30px;
+}
+
+.parrafo a {
+  text-decoration: none;
+  opacity: 0.9;
+  font-size: 115%;
+}
+
+.listas {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  margin-left: -35px;
+}
+
+.listas ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+.listas li {
+  list-style: none;
+  margin-left: 22px;
+}
+
+.listas a {
+  text-decoration: none;
+  color: #000;
+  font-size: 90%;
+}
+
+.lista2 {
+  margin-left: 40%;
+}
+
+.hr {
+  position: absolute;
+  width: 100%;
+  margin-top: -4%;
+  opacity: 0.6;
+}
+/*# sourceMappingURL=footer.component.css.map */

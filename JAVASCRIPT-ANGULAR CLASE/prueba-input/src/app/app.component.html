@@ -1,0 +1,18 @@
+<!--<h1>Hola, esta pagina es de prueba</h1>
+<app-button (usuarioHaClicado)="responderClick($event)" [tituloDelBoton]="'Aceptar'"></app-button>
+<app-button (usuarioHaClicado)="responderClick($event)" [tituloDelBoton]="'Cancelar'"></app-button>
+<app-button (usuarioHaClicado)="responderClick($event)"></app-button>
+<app-button (usuarioHaClicado)="responderClick($event)"></app-button>
+-->
+
+<ul *ngIf="paises.length <= 5">
+    <li *ngFor="let pais of paises">{{ pais }}</li>
+</ul>
+
+<p *ngIf="paises.length > 5">Hay muchos paises</p>
+
+<app-button 
+    *ngFor="let pais of paises" 
+    (usuarioHaClicado)="responderClick($event)" 
+    [tituloDelBoton]="pais">
+</app-button>
